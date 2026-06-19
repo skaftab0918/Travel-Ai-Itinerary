@@ -125,7 +125,7 @@ export default function LandingPage() {
 
       {/* Footer */}
       <footer className="relative z-10 border-t border-white/5 py-8 text-center">
-        <p className="text-night-500 text-xs">© 2025 Trrip · Built with Gemini AI</p>
+        <p className="text-night-500 text-xs">© 2025 Trrip · Built BY Aftab SK</p>
       </footer>
     </div>
   );
